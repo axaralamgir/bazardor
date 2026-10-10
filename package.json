@@ -1,0 +1,24 @@
+{
+  "name": "bazardor",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "better-auth": "latest",
+    "lucide-react": "latest",
+    "mongodb": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hot-toast": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "daisyui": "latest",
+    "tailwindcss": "latest"
+  }
+}
